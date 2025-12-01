@@ -1,0 +1,11 @@
+.venv/
+venv/
+ml/.venv/
+__pycache__/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.joblib
+*.sav
+.DS_Store
