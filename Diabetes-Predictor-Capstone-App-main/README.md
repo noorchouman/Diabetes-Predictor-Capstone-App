@@ -15,9 +15,11 @@ A machine learning web application that predicts the risk of Type 2 diabetes usi
 - Includes educational diabetes information  
 
 ## Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express, SQLite  
-- **Machine Learning:** Python, scikit-learn, PyTorch  
+- **Frontend:** React.js 18.2.0, Vite 5.2.0, React Router 7.9.4, Tailwind CSS 3.4.18, jsPDF
+3.0.3.
+- **Backend:** Node.js, Express.js 4.19.2, better-sqlite3 9.6.0, CORS 2.8.5.
+- **Machine Learning:** Python 3.9.6, scikit-learn 1.4.2, pandas 2.2.2, numpy 1.26.4, joblib
+1.4.2, PyTorch (for TabTransformer implementation).
 
 ## Model Details
 - Preprocessing: median imputation and standardization  
